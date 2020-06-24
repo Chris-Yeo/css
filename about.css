@@ -1,0 +1,55 @@
+body {
+    background-color:#e1e8e3;
+}
+
+p, h2, ul {
+    font-family: 'Poppins', sans-serif;
+}
+
+ul {
+    font-size: small;
+}
+
+.skills {
+    padding: 20px 0 0 200px;
+}
+
+h1, h2, ul {
+font-family: 'Poppins', sans-serif;
+color: royalblue;
+}
+
+.name {
+    padding: 80px 0 0 200px;
+}
+
+.alpha {
+        text-align: right;
+    }
+
+.alpha a {
+        font-family: 'Poppins', sans-serif;
+        color: dimgrey;
+        padding-left: 5px;
+        font-size:15px;
+    }
+
+    .skills {
+        display: inline-block;
+        max-width: 100%;
+    }
+
+    .skills .skill {
+        display: inline-block;
+        padding-right: 300px;
+       
+    }
+
+    .skills .interest {
+        display: inline-block;
+        
+    }
+
+    h1 {
+       line-height: 3;
+    }
